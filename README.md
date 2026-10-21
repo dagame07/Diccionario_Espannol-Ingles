@@ -1,4 +1,4 @@
-# Diccionario Español-Inglés (DiccionarioIE)
+# Diccionario Español-Inglés (Diccionario)
 
 Programa de consola en Java para practicar traducciones. Es un **código de prueba**
 para ejercitar colecciones (`HashMap`, `List`), `Scanner` y control de flujo.
