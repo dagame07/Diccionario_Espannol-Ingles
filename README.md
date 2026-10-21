@@ -52,3 +52,4 @@ Respuestas incorrectas: 1
 - Ignorar acentos al comparar
 - Elegir cuántas palabras tendrá cada partida
 - Cargar el diccionario desde un archivo en lugar de dejarlo en el código
+- Refactoriar para agregar pruebas unitarias
